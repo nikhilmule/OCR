@@ -15,4 +15,4 @@ In this repo two methods are shown for extracting the data from image like
     - 'Regex' is utilized here for extracting the useful information like all details.
     - Then a dataframe is created for storing all details and further dataframe is stored as ".csv" file.
     - New Database connection is established for storing the .csv files and new tables are created for storing the image files
-    - In this project postgresql database is used.
+    - In this project postgreSQL database is used.
