@@ -2,7 +2,7 @@
 Optical Character Recognition
 
 In this repo two methods are shown for extracting the data from image like 
-1. By extracting the required posrtion of the image by using the Numpy. But it is useful when we have documents in the same format without any changes in the furture.
+1. By extracting the required portion of the image by using the Numpy. But it is useful when we have documents in the same format without any changes in the furture.
 2. Extracting the data from image using tesseract and opencv libraries
 
 ## Objective:
